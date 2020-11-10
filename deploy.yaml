@@ -1,0 +1,8 @@
+spec:
+ name: SecDevOps-HTML 
+ static_sites:
+ - git:
+     branch: main
+     repo_clone_url: https://github.com/NewPlanetWW/SecDevOps-HTML.git
+   name: SecDevOps-HTML   
+   
